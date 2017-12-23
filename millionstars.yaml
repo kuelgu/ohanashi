@@ -398,8 +398,7 @@
   name: 横山奈緒
   yomi: よこやまなお
   id: nao
-  type: da
-  images:
+  type: da images:
     - images/nao/1100061330f.png
     - images/nao/110032c8059.png
     - images/nao/1100289066c.png
@@ -551,6 +550,13 @@
     - images/julia/110094c2a09.png
     - images/julia/11002655d0c.png
     - images/julia/110054911c7.png
+- # 51:
+  name: 白石紬
+  yomi: しらいしつむぎ
+  id: nannan
+  type: vi
+  images:
+    - images/nannan/tsumu0.png
 -
   name: 音無小鳥
   yomi: おとなしことり
